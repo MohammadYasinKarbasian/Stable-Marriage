@@ -21,12 +21,12 @@ To use this Python implementation of the Stable Marriage Algorithm, follow these
 
 1. Clone this repository to your local machine:
    ```bash
-   git clone https://github.com/yourusername/stable-marriage.git
+   git clone https://github.com/MohammadYasinKarbasian/Stable-Marriage.git
 2. Run the algorithm by executing the main Python script:
 
     ```bash
 
-    python stable marriage.py
+    python 'stable marriage.py'
 3. Follow the prompts to provide the input data or specify the test file you want to use for matching.
 
 4. The algorithm will perform the matching and display the results.
